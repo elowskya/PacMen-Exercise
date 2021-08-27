@@ -1,4 +1,3 @@
-# PacMen-Exercise
 <h1>PacMen Exercise</h1>
 <img src="/images/pacman.JPG">
 
