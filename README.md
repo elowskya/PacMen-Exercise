@@ -1,6 +1,6 @@
 # PacMen-Exercise
 <h1>PacMen Exercise</h1>
-<img src="images/pacMan.JPG">
+<img src="/images/pacman.JPG">
 
 <h2>DESCRIPTION</h2>
 <p>This project uses primarily vanilla JavaScript with on click event, to generate a PacMan image at a random location within the window. The update function is called when the update button is clicked.
